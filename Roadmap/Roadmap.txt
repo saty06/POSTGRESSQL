@@ -1,0 +1,42 @@
+Database
+PostgreSQL CREATE TABLE => done 
+PostgreSQL INSERT INTO=>done
+PostgreSQL Fetch Data =>done
+PostgreSQL ADD COLUMN 
+PostgreSQL UPDATE=> done 
+PostgreSQL ALTER COLUMN => done
+PostgreSQL DROP COLUMN => done
+PostgreSQL DELETE =>done 
+PostgreSQL DROP TABLE =>done 
+
+Create Demo Database =>done
+
+PostgreSQL Syntax =>done 
+PostgreSQL Operators =>done 
+PostgreSQL SELECT =>done 
+PostgreSQL SELECT DISTINCT =>done 
+PostgreSQL WHERE =>done 
+PostgreSQL ORDER BY =>done 
+PostgreSQL LIMIT =>done 
+PostgreSQL MIN and MAX =>done
+PostgreSQL COUNT =>done
+PostgreSQL SUM -=>done 
+PostgreSQL AVG =>done 
+PostgreSQL LIKE =>done
+PostgreSQL IN =>done
+PostgreSQL BETWEEN =>done 
+PostgreSQL AS =>done 
+PostgreSQL Joins =>done 
+PostgreSQL INNER JOIN =>done
+PostgreSQL LEFT JOIN =>done
+PostgreSQL RIGHT JOIN =>done
+PostgreSQL FULL JOIN =>done
+PostgreSQL CROSS JOIN =>done
+PostgreSQL UNION =>done 
+PostgreSQL GROUP BY =>done
+PostgreSQL HAVING =>done
+PostgreSQL EXISTS=>DONE
+PostgreSQL ANY=>DONE
+PostgreSQL ALL =>DONE
+PostgreSQL CASE=>DONE
+DO NOT DONE 
